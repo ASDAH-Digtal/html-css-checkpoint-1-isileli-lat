@@ -5,8 +5,11 @@ body {
 }
 
 h1 {
-    font: 
+    font-style:italic
+
     /* 6. Change the font for all h1 elements. */
 }
-
+ p{
+     font-style:normal
+ }
 /* 7. Add a p selector and change the font for p elements */
